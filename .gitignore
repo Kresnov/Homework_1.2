@@ -1,4 +1,4 @@
 /tmp/
 thumbs.db
 .DS_store
-_old
+*.*_old
